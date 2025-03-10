@@ -11,7 +11,7 @@ react-phone-number-input – for handling phone number inputs
 ESLint + Prettier – for code consistency
 
 Installation
-git clone https://github.com/your-username/interview-work.git
+git clone
 cd interview-work
 npm install # or yarn install
 
